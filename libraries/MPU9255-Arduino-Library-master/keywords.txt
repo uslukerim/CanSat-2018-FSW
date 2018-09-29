@@ -1,0 +1,21 @@
+
+#######################################
+# Syntax Coloring Map for MPU9255 library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MPU9255	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+read_mag	KEYWORD2
+read_gyro	KEYWORD2
+read_acc	KEYWORD2
+set_acc_scale	KEYWORD2
+set_gyro_scale	KEYWORD2read_temp	KEYWORD2
